@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\WindowsFormsFor MCDonald's\bin\Debug\WindowsFormsFor MCDonald's.exe.config
+C:\Users\user\Desktop\WindowsFormsFor MCDonald's\bin\Debug\WindowsFormsFor MCDonald's.exe
+C:\Users\user\Desktop\WindowsFormsFor MCDonald's\bin\Debug\WindowsFormsFor MCDonald's.pdb
+C:\Users\user\Desktop\WindowsFormsFor MCDonald's\obj\Debug\WindowsFormsFor MCDonald's.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsFor MCDonald's\obj\Debug\WindowsFormsFor_MCDonald_s.FirstCustomControl.resources
+C:\Users\user\Desktop\WindowsFormsFor MCDonald's\obj\Debug\WindowsFormsFor_MCDonald_s.Form1.resources
+C:\Users\user\Desktop\WindowsFormsFor MCDonald's\obj\Debug\WindowsFormsFor_MCDonald_s.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsFor MCDonald's\obj\Debug\WindowsFormsFor MCDonald's.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WindowsFormsFor MCDonald's\obj\Debug\WindowsFormsFor MCDonald's.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WindowsFormsFor MCDonald's\obj\Debug\WindowsFormsFor MCDonald's.exe
+C:\Users\user\Desktop\WindowsFormsFor MCDonald's\obj\Debug\WindowsFormsFor MCDonald's.pdb
+C:\Users\user\Desktop\WindowsFormsFor MCDonald's\obj\Debug\WindowsFormsFor_MCDonald_s.SecondCustomControl.resources
